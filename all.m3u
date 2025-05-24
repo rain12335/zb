@@ -3,7 +3,7 @@
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",更新日期
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2025-05-24" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-05-24
+#EXTINF:-1 tvg-id="1" tvg-name="2025-05-25" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-05-25
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV1.png" group-title="上海电信",CCTV1
 http://116.237.32.161:8888/rtp/239.45.3.145:5140
@@ -192,17 +192,23 @@ http://222.64.216.203:8888/rtp/239.45.0.44:5140
 #EXTINF:-1 tvg-id="3" tvg-name="央视台球" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/央视台球.png" group-title="上海电信",央视台球
 http://180.165.219.168:4022/rtp/239.45.0.44:5140
 #EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重温经典.png" group-title="上海电信",重温经典
-http://119.32.12.31:2901/udp/224.1.100.126:11111
-#EXTINF:-1 tvg-id="2" tvg-name="重温经典" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重温经典.png" group-title="上海电信",重温经典
 http://119.32.12.17:2901/udp/224.1.100.126:11111
+#EXTINF:-1 tvg-id="2" tvg-name="重温经典" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重温经典.png" group-title="上海电信",重温经典
+http://119.32.12.12:2901/udp/224.1.100.126:11111
+#EXTINF:-1 tvg-id="3" tvg-name="重温经典" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重温经典.png" group-title="上海电信",重温经典
+http://119.32.12.31:2901/udp/224.1.100.126:11111
 #EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/劲爆体育.png" group-title="上海电信",劲爆体育
-http://119.32.12.31:2901/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="2" tvg-name="劲爆体育" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/劲爆体育.png" group-title="上海电信",劲爆体育
 http://119.32.12.17:2901/udp/224.1.100.129:11111
+#EXTINF:-1 tvg-id="2" tvg-name="劲爆体育" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/劲爆体育.png" group-title="上海电信",劲爆体育
+http://119.32.12.12:2901/udp/224.1.100.129:11111
+#EXTINF:-1 tvg-id="3" tvg-name="劲爆体育" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/劲爆体育.png" group-title="上海电信",劲爆体育
+http://119.32.12.31:2901/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/新视觉.png" group-title="上海电信",新视觉
-http://119.32.12.31:2901/udp/224.1.100.136:11111
-#EXTINF:-1 tvg-id="2" tvg-name="新视觉" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/新视觉.png" group-title="上海电信",新视觉
 http://119.32.12.17:2901/udp/224.1.100.136:11111
+#EXTINF:-1 tvg-id="2" tvg-name="新视觉" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/新视觉.png" group-title="上海电信",新视觉
+http://119.32.12.12:2901/udp/224.1.100.136:11111
+#EXTINF:-1 tvg-id="3" tvg-name="新视觉" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/新视觉.png" group-title="上海电信",新视觉
+http://119.32.12.31:2901/udp/224.1.100.136:11111
 #EXTINF:-1 tvg-id="1" tvg-name="卫生健康" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/卫生健康.png" group-title="上海电信",卫生健康
 http://113.104.187.157:7088/rtp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="2" tvg-name="卫生健康" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/卫生健康.png" group-title="上海电信",卫生健康
@@ -1272,13 +1278,17 @@ http://113.90.237.248:8888/rtp/239.253.43.124:5146
 #EXTINF:-1 tvg-id="3" tvg-name="客家生活" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/客家生活.png" group-title="广东电信",客家生活
 http://183.45.18.76:60022/rtp/239.253.43.124:5146
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/翡翠台.png" group-title="广东电信",翡翠台
-http://119.32.12.31:2901/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/翡翠台.png" group-title="广东电信",翡翠台
 http://119.32.12.17:2901/udp/224.1.100.121:11111
+#EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/翡翠台.png" group-title="广东电信",翡翠台
+http://119.32.12.12:2901/udp/224.1.100.121:11111
+#EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/翡翠台.png" group-title="广东电信",翡翠台
+http://119.32.12.31:2901/udp/224.1.100.121:11111
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/明珠台.png" group-title="广东电信",明珠台
-http://119.32.12.31:2901/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/明珠台.png" group-title="广东电信",明珠台
 http://119.32.12.17:2901/udp/224.1.100.123:11111
+#EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/明珠台.png" group-title="广东电信",明珠台
+http://119.32.12.12:2901/udp/224.1.100.123:11111
+#EXTINF:-1 tvg-id="3" tvg-name="明珠台" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/明珠台.png" group-title="广东电信",明珠台
+http://119.32.12.31:2901/udp/224.1.100.123:11111
 #EXTINF:-1 tvg-id="1" tvg-name="江苏影视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江苏影视.png" group-title="江苏电信",江苏影视
 http://180.127.174.231:4022/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-id="2" tvg-name="江苏影视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江苏影视.png" group-title="江苏电信",江苏影视
