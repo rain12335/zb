@@ -22,7 +22,12 @@ source_urls = [
     "https://h-n.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt",
     "https://l-n.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt",
     "https://hl-j.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt",
-    "https://gd-1.yangfeiyue.dpdns.org/txt/Guang_dian.txt",
+    "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河南.txt",
+    "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河北.txt",
+    "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/天津.txt",
+    "https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/chongqingzubo.txt",
+    "https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/sichaunzubo.txt",
+    "https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/hunanzubo.txt",
 ]
 
 url_blacklist = [
