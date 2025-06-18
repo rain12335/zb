@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://assets.live1dnow.com/epg.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="直播源均来自网络，不得商用，仅供学习交流使用。" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",直播源均来自网络，不得商用，仅供学习交流使用。
+#EXTINF:-1 tvg-id="1" tvg-name="直播源均来自网络，不得商用，仅供学习交流使用。" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",直播源均来自网络，不得商用，仅供学习交流使用。
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",更新日期
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",更新日期
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="2025-06-18" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-06-18
+#EXTINF:-1 tvg-id="1" tvg-name="2025-06-18" tvg-logo="https://live-1.yangfeiyue.dpdns.org/tv/武术台.png" group-title="公告",2025-06-18
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://222.68.50.228:4022/rtp/239.45.3.145:5140
@@ -126,7 +126,7 @@ http://218.80.79.227:8880/rtp/239.45.0.34:5140
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV5+" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://61.173.145.252:4022/rtp/239.45.0.34:5140
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV5+.png" group-title="央视频道",CCTV5+
-http://211.158.153.118:8009/udp/225.0.4.73:7980
+http://211.158.153.118:8004/udp/225.0.4.73:7980
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV6.png" group-title="央视频道",CCTV6
 http://222.68.50.228:4022/rtp/239.45.1.70:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV6" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CCTV6.png" group-title="央视频道",CCTV6
@@ -452,7 +452,7 @@ http://123.115.118.228:9000/rtp/239.3.1.215:4220
 #EXTINF:-1 tvg-id="30" tvg-name="CGTN" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN.png" group-title="央视频道",CGTN
 http://114.240.231.100:3000/rtp/239.3.1.215:4220
 #EXTINF:-1 tvg-id="31" tvg-name="CGTN" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN.png" group-title="央视频道",CGTN
-http://211.158.153.118:8009/udp/225.0.4.12:7980
+http://211.158.153.118:8004/udp/225.0.4.12:7980
 #EXTINF:-1 tvg-id="32" tvg-name="CGTN" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN.png" group-title="央视频道",CGTN
 http://115.63.39.9:4000/udp/225.1.4.16:1045
 #EXTINF:-1 tvg-id="33" tvg-name="CGTN" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN.png" group-title="央视频道",CGTN
@@ -642,7 +642,7 @@ http://114.240.231.100:3000/rtp/239.3.1.218:4220
 #EXTINF:-1 tvg-id="31" tvg-name="CGTN法语" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 http://115.63.39.9:4000/udp/225.1.5.37:1347
 #EXTINF:-1 tvg-id="32" tvg-name="CGTN法语" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-http://118.250.146.177:8888/udp/239.76.246.87:1234
+http://175.9.44.178:8888/udp/239.76.246.87:1234
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN阿语" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://114.254.37.46:4022/rtp/239.3.1.219:4220
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN阿语" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
@@ -766,7 +766,7 @@ http://114.240.231.100:3000/rtp/239.3.1.220:4220
 #EXTINF:-1 tvg-id="31" tvg-name="CGTN俄语" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://115.63.39.9:4000/udp/225.1.5.39:1349
 #EXTINF:-1 tvg-id="32" tvg-name="CGTN俄语" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-http://118.250.146.177:8888/udp/239.76.246.86:1234
+http://175.9.44.178:8888/udp/239.76.246.86:1234
 #EXTINF:-1 tvg-id="1" tvg-name="兵器科技" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/兵器科技.png" group-title="央视频道",兵器科技
 http://222.68.50.228:4022/rtp/239.45.0.45:5140
 #EXTINF:-1 tvg-id="2" tvg-name="兵器科技" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/兵器科技.png" group-title="央视频道",兵器科技
@@ -1120,7 +1120,7 @@ http://183.151.26.235:4022/rtp/233.50.200.190:5140
 #EXTINF:-1 tvg-id="17" tvg-name="湖南卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://183.156.122.238:4022/rtp/233.50.200.190:5140
 #EXTINF:-1 tvg-id="18" tvg-name="湖南卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://211.158.153.118:8009/udp/225.0.4.75:7980
+http://211.158.153.118:8004/udp/225.0.4.75:7980
 #EXTINF:-1 tvg-id="19" tvg-name="湖南卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://115.63.39.9:4000/udp/225.1.4.17:1046
 #EXTINF:-1 tvg-id="20" tvg-name="湖南卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -1160,7 +1160,7 @@ http://183.151.26.235:4022/rtp/233.50.201.100:5140
 #EXTINF:-1 tvg-id="17" tvg-name="浙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://183.156.122.238:4022/rtp/233.50.201.100:5140
 #EXTINF:-1 tvg-id="18" tvg-name="浙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://211.158.153.118:8009/udp/225.0.4.81:7980
+http://211.158.153.118:8004/udp/225.0.4.81:7980
 #EXTINF:-1 tvg-id="19" tvg-name="浙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://115.63.39.9:4000/udp/225.1.4.19:1048
 #EXTINF:-1 tvg-id="20" tvg-name="浙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -1200,7 +1200,7 @@ http://183.151.26.235:4022/rtp/233.50.200.144:5140
 #EXTINF:-1 tvg-id="17" tvg-name="江苏卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://183.156.122.238:4022/rtp/233.50.200.144:5140
 #EXTINF:-1 tvg-id="18" tvg-name="江苏卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://211.158.153.118:8009/udp/225.0.4.79:7980
+http://211.158.153.118:8004/udp/225.0.4.79:7980
 #EXTINF:-1 tvg-id="19" tvg-name="江苏卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://115.63.39.9:4000/udp/225.1.4.18:1047
 #EXTINF:-1 tvg-id="20" tvg-name="江苏卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -1226,7 +1226,7 @@ http://218.80.79.227:8880/rtp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="10" tvg-name="东方卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://61.173.145.252:4022/rtp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="11" tvg-name="东方卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://211.158.153.118:8009/udp/225.0.4.80:7980
+http://211.158.153.118:8004/udp/225.0.4.80:7980
 #EXTINF:-1 tvg-id="12" tvg-name="东方卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://115.63.39.9:4000/udp/225.1.4.22:1051
 #EXTINF:-1 tvg-id="13" tvg-name="东方卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/东方卫视.png" group-title="卫视频道",东方卫视
@@ -1266,7 +1266,7 @@ http://183.151.26.235:4022/rtp/233.50.200.149:5140
 #EXTINF:-1 tvg-id="17" tvg-name="广东卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://183.156.122.238:4022/rtp/233.50.200.149:5140
 #EXTINF:-1 tvg-id="18" tvg-name="广东卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://211.158.153.118:8009/udp/225.0.4.84:7980
+http://211.158.153.118:8004/udp/225.0.4.84:7980
 #EXTINF:-1 tvg-id="19" tvg-name="广东卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://115.63.39.9:4000/udp/225.1.4.30:1059
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/广东卫视.png" group-title="卫视频道",广东卫视
@@ -1306,7 +1306,7 @@ http://183.151.26.235:4022/rtp/233.50.200.179:5140
 #EXTINF:-1 tvg-id="17" tvg-name="北京卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://183.156.122.238:4022/rtp/233.50.200.179:5140
 #EXTINF:-1 tvg-id="18" tvg-name="北京卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://211.158.153.118:8009/udp/225.0.4.78:7980
+http://211.158.153.118:8004/udp/225.0.4.78:7980
 #EXTINF:-1 tvg-id="19" tvg-name="北京卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://115.63.39.9:4000/udp/225.1.4.21:1050
 #EXTINF:-1 tvg-id="20" tvg-name="北京卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -1346,7 +1346,7 @@ http://183.151.26.235:4022/rtp/233.50.200.188:5140
 #EXTINF:-1 tvg-id="17" tvg-name="深圳卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://183.156.122.238:4022/rtp/233.50.200.188:5140
 #EXTINF:-1 tvg-id="18" tvg-name="深圳卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://211.158.153.118:8009/udp/225.0.4.202:7980
+http://211.158.153.118:8004/udp/225.0.4.202:7980
 #EXTINF:-1 tvg-id="19" tvg-name="深圳卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://115.63.39.9:4000/udp/225.1.4.23:1052
 #EXTINF:-1 tvg-id="20" tvg-name="深圳卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -1386,7 +1386,7 @@ http://183.151.26.235:4022/rtp/233.50.200.104:5140
 #EXTINF:-1 tvg-id="17" tvg-name="天津卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://183.156.122.238:4022/rtp/233.50.200.104:5140
 #EXTINF:-1 tvg-id="18" tvg-name="天津卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://211.158.153.118:8009/udp/225.0.4.82:7980
+http://211.158.153.118:8004/udp/225.0.4.82:7980
 #EXTINF:-1 tvg-id="19" tvg-name="天津卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://115.63.39.9:4000/udp/225.1.4.24:1053
 #EXTINF:-1 tvg-id="20" tvg-name="天津卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/天津卫视.png" group-title="卫视频道",天津卫视
@@ -1426,7 +1426,7 @@ http://183.151.26.235:4022/rtp/233.50.200.105:5140
 #EXTINF:-1 tvg-id="17" tvg-name="河北卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://183.156.122.238:4022/rtp/233.50.200.105:5140
 #EXTINF:-1 tvg-id="18" tvg-name="河北卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://211.158.153.118:8009/udp/225.0.4.174:7980
+http://211.158.153.118:8004/udp/225.0.4.174:7980
 #EXTINF:-1 tvg-id="19" tvg-name="河北卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://115.63.39.9:4000/udp/225.1.4.34:1063
 #EXTINF:-1 tvg-id="20" tvg-name="河北卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/河北卫视.png" group-title="卫视频道",河北卫视
@@ -1466,7 +1466,7 @@ http://183.151.26.235:4022/rtp/233.50.200.106:5140
 #EXTINF:-1 tvg-id="17" tvg-name="安徽卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://183.156.122.238:4022/rtp/233.50.200.106:5140
 #EXTINF:-1 tvg-id="18" tvg-name="安徽卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://211.158.153.118:8009/udp/225.0.4.133:7980
+http://211.158.153.118:8004/udp/225.0.4.133:7980
 #EXTINF:-1 tvg-id="19" tvg-name="安徽卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://115.63.39.9:4000/udp/225.1.4.20:1049
 #EXTINF:-1 tvg-id="20" tvg-name="安徽卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -1506,7 +1506,7 @@ http://183.151.26.235:4022/rtp/233.50.200.114:5140
 #EXTINF:-1 tvg-id="17" tvg-name="重庆卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://183.156.122.238:4022/rtp/233.50.200.114:5140
 #EXTINF:-1 tvg-id="18" tvg-name="重庆卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://211.158.153.118:8009/udp/225.0.4.187:7980
+http://211.158.153.118:8004/udp/225.0.4.187:7980
 #EXTINF:-1 tvg-id="19" tvg-name="重庆卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://115.63.39.9:4000/udp/225.1.4.29:1058
 #EXTINF:-1 tvg-id="20" tvg-name="重庆卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -1584,7 +1584,7 @@ http://183.151.26.235:4022/rtp/233.50.200.118:5140
 #EXTINF:-1 tvg-id="17" tvg-name="四川卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://183.156.122.238:4022/rtp/233.50.200.118:5140
 #EXTINF:-1 tvg-id="18" tvg-name="四川卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://211.158.153.118:8009/udp/225.0.4.204:7980
+http://211.158.153.118:8004/udp/225.0.4.204:7980
 #EXTINF:-1 tvg-id="19" tvg-name="四川卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://115.63.39.9:4000/udp/225.1.4.40:1069
 #EXTINF:-1 tvg-id="20" tvg-name="四川卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/四川卫视.png" group-title="卫视频道",四川卫视
@@ -1624,7 +1624,7 @@ http://183.151.26.235:4022/rtp/233.50.200.119:5140
 #EXTINF:-1 tvg-id="17" tvg-name="江西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://183.156.122.238:4022/rtp/233.50.200.119:5140
 #EXTINF:-1 tvg-id="18" tvg-name="江西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://211.158.153.118:8009/udp/225.0.4.203:7980
+http://211.158.153.118:8004/udp/225.0.4.203:7980
 #EXTINF:-1 tvg-id="19" tvg-name="江西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://115.63.39.9:4000/udp/225.1.4.37:1066
 #EXTINF:-1 tvg-id="20" tvg-name="江西卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/江西卫视.png" group-title="卫视频道",江西卫视
@@ -1702,7 +1702,7 @@ http://183.151.26.235:4022/rtp/233.50.200.189:5140
 #EXTINF:-1 tvg-id="17" tvg-name="黑龙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://183.156.122.238:4022/rtp/233.50.200.189:5140
 #EXTINF:-1 tvg-id="18" tvg-name="黑龙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://211.158.153.118:8009/udp/225.0.4.201:7980
+http://211.158.153.118:8004/udp/225.0.4.201:7980
 #EXTINF:-1 tvg-id="19" tvg-name="黑龙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://115.63.39.9:4000/udp/225.1.4.28:1057
 #EXTINF:-1 tvg-id="20" tvg-name="黑龙江卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -1742,7 +1742,7 @@ http://183.151.26.235:4022/rtp/233.50.201.105:5140
 #EXTINF:-1 tvg-id="17" tvg-name="山东卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://183.156.122.238:4022/rtp/233.50.201.105:5140
 #EXTINF:-1 tvg-id="18" tvg-name="山东卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://211.158.153.118:8009/udp/225.0.4.199:7980
+http://211.158.153.118:8004/udp/225.0.4.199:7980
 #EXTINF:-1 tvg-id="19" tvg-name="山东卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://115.63.39.9:4000/udp/225.1.4.27:1056
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
@@ -1780,7 +1780,7 @@ http://183.151.26.235:4022/rtp/233.50.201.141:5140
 #EXTINF:-1 tvg-id="17" tvg-name="辽宁卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://183.156.122.238:4022/rtp/233.50.201.141:5140
 #EXTINF:-1 tvg-id="18" tvg-name="辽宁卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://211.158.153.118:8009/udp/225.0.4.98:7980
+http://211.158.153.118:8004/udp/225.0.4.98:7980
 #EXTINF:-1 tvg-id="19" tvg-name="辽宁卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://115.63.39.9:4000/udp/225.1.4.26:1055
 #EXTINF:-1 tvg-id="20" tvg-name="辽宁卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
@@ -1820,7 +1820,7 @@ http://183.151.26.235:4022/rtp/233.50.201.142:5140
 #EXTINF:-1 tvg-id="17" tvg-name="贵州卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://183.156.122.238:4022/rtp/233.50.201.142:5140
 #EXTINF:-1 tvg-id="18" tvg-name="贵州卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://211.158.153.118:8009/udp/225.0.4.175:7980
+http://211.158.153.118:8004/udp/225.0.4.175:7980
 #EXTINF:-1 tvg-id="19" tvg-name="贵州卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://115.63.39.9:4000/udp/225.1.4.41:1070
 #EXTINF:-1 tvg-id="20" tvg-name="贵州卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -1898,7 +1898,7 @@ http://183.151.26.235:4022/rtp/233.50.201.146:5140
 #EXTINF:-1 tvg-id="17" tvg-name="东南卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://183.156.122.238:4022/rtp/233.50.201.146:5140
 #EXTINF:-1 tvg-id="18" tvg-name="东南卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://211.158.153.118:8009/udp/225.0.4.200:7980
+http://211.158.153.118:8004/udp/225.0.4.200:7980
 #EXTINF:-1 tvg-id="19" tvg-name="东南卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://115.63.39.9:4000/udp/225.1.4.32:1061
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
@@ -16454,7 +16454,7 @@ http://115.63.39.9:4000/udp/225.1.4.209:1262
 #EXTINF:-1 tvg-id="12" tvg-name="CHC家庭影院" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC家庭影院.png" group-title="网络数字",CHC家庭影院
 http://111.167.220.229:8086/udp/225.1.1.213:5002
 #EXTINF:-1 tvg-id="13" tvg-name="CHC家庭影院" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC家庭影院.png" group-title="网络数字",CHC家庭影院
-http://118.250.146.177:8888/udp/239.76.245.241:1234
+http://175.9.44.178:8888/udp/239.76.245.241:1234
 #EXTINF:-1 tvg-id="1" tvg-name="CHC高清电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC高清电影.png" group-title="网络数字",CHC高清电影
 http://222.68.50.228:4022/rtp/239.45.0.42:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CHC高清电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC高清电影.png" group-title="网络数字",CHC高清电影
@@ -16480,7 +16480,7 @@ http://115.63.39.9:4000/udp/225.1.4.207:1260
 #EXTINF:-1 tvg-id="12" tvg-name="CHC高清电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC高清电影.png" group-title="网络数字",CHC高清电影
 http://111.167.220.229:8086/udp/225.1.1.214:5002
 #EXTINF:-1 tvg-id="13" tvg-name="CHC高清电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC高清电影.png" group-title="网络数字",CHC高清电影
-http://118.250.146.177:8888/udp/239.76.245.242:1234
+http://175.9.44.178:8888/udp/239.76.245.242:1234
 #EXTINF:-1 tvg-id="1" tvg-name="CHC动作电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC动作电影.png" group-title="网络数字",CHC动作电影
 http://222.68.50.228:4022/rtp/239.45.0.41:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC动作电影.png" group-title="网络数字",CHC动作电影
@@ -16506,7 +16506,7 @@ http://115.63.39.9:4000/udp/225.1.4.208:1261
 #EXTINF:-1 tvg-id="12" tvg-name="CHC动作电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC动作电影.png" group-title="网络数字",CHC动作电影
 http://111.167.220.229:8086/udp/225.1.1.215:5002
 #EXTINF:-1 tvg-id="13" tvg-name="CHC动作电影" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/CHC动作电影.png" group-title="网络数字",CHC动作电影
-http://118.250.146.177:8888/udp/239.76.245.243:1234
+http://175.9.44.178:8888/udp/239.76.245.243:1234
 #EXTINF:-1 tvg-id="1" tvg-name="求索纪录" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/求索纪录.png" group-title="网络数字",求索纪录
 http://171.213.219.212:58888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="2" tvg-name="求索纪录" tvg-logo="https://live1.yangfeiyue.dpdns.org/tv/求索纪录.png" group-title="网络数字",求索纪录
