@@ -27,7 +27,7 @@ source_urls = [
     "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河北.txt",
     "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/天津.txt",
     "https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/chongqingzubo.txt",
-    "https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/sichaunzubo.txt",
+    "https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/sichuanzubo.txt",
     "https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/hunanzubo.txt",
 ]
 
