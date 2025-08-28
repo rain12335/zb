@@ -1,34 +1,34 @@
-2025-08-27 10:02:33,247 - ERROR - url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt
-2025-08-27 10:02:37,956 - ERROR - url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt
-2025-08-27 10:02:38,431 - ERROR - url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt
-2025-08-27 10:02:38,941 - ERROR - url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt
-2025-08-27 10:02:39,764 - ERROR - url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt
-2025-08-27 10:02:44,288 - ERROR - url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt
-2025-08-27 10:02:45,095 - ERROR - url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt
-2025-08-27 10:02:45,569 - ERROR - url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt
-2025-08-27 10:02:46,407 - ERROR - url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt
-2025-08-27 10:02:46,494 - ERROR - url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt
-2025-08-27 10:02:46,991 - ERROR - url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt
-2025-08-27 10:02:47,470 - ERROR - url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt
-2025-08-27 10:02:47,966 - ERROR - url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt
-2025-08-27 10:02:48,045 - ERROR - url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt
-2025-08-27 10:02:48,150 - ERROR - url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt
-2025-08-27 10:02:48,307 - ERROR - url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt
-2025-08-27 10:02:48,576 - ERROR - url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt
-2025-08-27 10:02:48,758 - ERROR - url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt
-2025-08-27 10:02:48,851 - ERROR - url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt
-2025-08-27 10:02:49,362 - ERROR - url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt
-2025-08-27 10:02:49,868 - ERROR - url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt
-2025-08-27 10:02:49,956 - ERROR - url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt
-2025-08-27 10:02:55,117 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河南.txt 获取成功，判断为txt格式
-2025-08-27 10:02:55,117 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河南.txt 爬取成功✅，包含频道分类: 中国联通-河南-组播
-2025-08-27 10:02:55,270 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河北.txt 获取成功，判断为txt格式
-2025-08-27 10:02:55,272 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河北.txt 爬取成功✅，包含频道分类: 中国联通-河北-组播
-2025-08-27 10:02:55,454 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/天津.txt 获取成功，判断为txt格式
-2025-08-27 10:02:55,454 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/天津.txt 爬取成功✅，包含频道分类: 中国联通-天津-组播
-2025-08-27 10:02:55,565 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/chongqingzubo.txt 获取成功，判断为txt格式
-2025-08-27 10:02:55,566 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/chongqingzubo.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 本地频道
-2025-08-27 10:02:55,649 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/sichuanzubo.txt 获取成功，判断为txt格式
-2025-08-27 10:02:55,650 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/sichuanzubo.txt 爬取成功✅，包含频道分类: 央视高清, 卫视高清, 网络数字, 四川本地, 影院高清, 4k超高清
-2025-08-27 10:02:55,744 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/hunanzubo.txt 获取成功，判断为txt格式
-2025-08-27 10:02:55,745 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/hunanzubo.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 湖南频道, 数字频道
+2025-08-28 10:01:39,316 - ERROR - url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://zjj.yangfeiyue.dpdns.org/txt/Zhejiang_dianxin.txt
+2025-08-28 10:01:39,824 - ERROR - url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://shh.yangfeiyue.dpdns.org/txt/Shanghai_dianxin.txt
+2025-08-28 10:01:40,232 - ERROR - url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gdd.yangfeiyue.dpdns.org/txt/Guangdong_dianxin.txt
+2025-08-28 10:01:45,436 - ERROR - url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://bjj.yangfeiyue.dpdns.org/txt/Beijing_liantong.txt
+2025-08-28 10:01:45,614 - ERROR - url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://tjj.yangfeiyue.dpdns.org/txt/Tianjin_liantong.txt
+2025-08-28 10:01:45,940 - ERROR - url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jss.yangfeiyue.dpdns.org/txt/Jiangsu_dianxin.txt
+2025-08-28 10:01:46,366 - ERROR - url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://cqq.yangfeiyue.dpdns.org/txt/Chongqing_liantong.txt
+2025-08-28 10:01:46,625 - ERROR - url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ssx.yangfeiyue.dpdns.org/txt/Shaanxi_dianxin.txt
+2025-08-28 10:01:46,823 - ERROR - url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://jxx.yangfeiyue.dpdns.org/txt/Jiangxi_dianxin.txt
+2025-08-28 10:01:47,320 - ERROR - url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://fjj.yangfeiyue.dpdns.org/txt/Fujian_dianxin.txt
+2025-08-28 10:01:47,491 - ERROR - url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ahh.yangfeiyue.dpdns.org/txt/Anhui_dianxin.txt
+2025-08-28 10:01:47,679 - ERROR - url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hnn.yangfeiyue.dpdns.org/txt/Hunan_dianxin.txt
+2025-08-28 10:01:47,868 - ERROR - url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://scc.yangfeiyue.dpdns.org/txt/Sichuan_dianxin.txt
+2025-08-28 10:01:48,104 - ERROR - url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://gxx.yangfeiyue.dpdns.org/txt/Guangxi_dianxin.txt
+2025-08-28 10:01:48,637 - ERROR - url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sdd.yangfeiyue.dpdns.org/txt/Shandong_dianxin.txt
+2025-08-28 10:01:48,928 - ERROR - url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hbb.yangfeiyue.dpdns.org/txt/Hubei_dianxin.txt
+2025-08-28 10:01:49,326 - ERROR - url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://heeb.yangfeiyue.dpdns.org/txt/Hebei_liantong.txt
+2025-08-28 10:01:49,500 - ERROR - url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://sxx.yangfeiyue.dpdns.org/txt/Shanxi_liantong.txt
+2025-08-28 10:01:49,799 - ERROR - url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hhn.yangfeiyue.dpdns.org/txt/Henan_dianxin.txt
+2025-08-28 10:01:50,242 - ERROR - url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://lnn.yangfeiyue.dpdns.org/txt/Liaoning_liantong.txt
+2025-08-28 10:01:50,528 - ERROR - url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://hljj.yangfeiyue.dpdns.org/txt/Heilongjiang_liantong.txt
+2025-08-28 10:01:50,740 - ERROR - url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://ggd.yangfeiyue.dpdns.org/txt/Guang_dian.txt
+2025-08-28 10:01:51,629 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河南.txt 获取成功，判断为txt格式
+2025-08-28 10:01:51,630 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河南.txt 爬取成功✅，包含频道分类: 中国联通-河南-组播
+2025-08-28 10:01:51,958 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河北.txt 获取成功，判断为txt格式
+2025-08-28 10:01:51,959 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/河北.txt 爬取成功✅，包含频道分类: 中国联通-河北-组播
+2025-08-28 10:01:52,297 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/天津.txt 获取成功，判断为txt格式
+2025-08-28 10:01:52,298 - INFO - url: https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/中国联通/天津.txt 爬取成功✅，包含频道分类: 中国联通-天津-组播
+2025-08-28 10:01:52,486 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/chongqingzubo.txt 获取成功，判断为txt格式
+2025-08-28 10:01:52,486 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/chongqingzubo.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 本地频道
+2025-08-28 10:01:52,653 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/sichuanzubo.txt 获取成功，判断为txt格式
+2025-08-28 10:01:52,654 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/sichuanzubo.txt 爬取成功✅，包含频道分类: 央视高清, 卫视高清, 网络数字, 四川本地, 影院高清, 4k超高清
+2025-08-28 10:01:52,804 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/hunanzubo.txt 获取成功，判断为txt格式
+2025-08-28 10:01:52,804 - INFO - url: https://raw.githubusercontent.com/rain12335/zubotv/refs/heads/main/hunanzubo.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 湖南频道, 数字频道
